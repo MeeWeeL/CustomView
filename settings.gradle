@@ -1,0 +1,2 @@
+rootProject.name = "CastomView"
+include ':app'
